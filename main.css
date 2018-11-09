@@ -1,0 +1,15 @@
+.wrapper {
+	height: 100%;
+	width: 100%;
+}
+
+.card {
+	background: violet;
+	height: 500px;
+	width: 400px;
+	max-width: 100%;
+}
+
+button {
+	width: 300px;
+}
